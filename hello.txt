@@ -1,3 +1,1 @@
 This is a simple text file that I am using for git project
-
-I have added a new line on this text document just so that I can the difference in the commit.
